@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: coming soon
+- Solution URL: [tsugumi.xyz](https://tsugumi.xyz/frontend-mentor/qr-code-component/)
 
 ## My process
 
